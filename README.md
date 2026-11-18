@@ -1,5 +1,7 @@
 # Wi-Fi-Controlled Robot Car Using ESP8266
 
+**New:** an installable Android version of the proportional dual-joystick controller now lives in [`android/`](android/README.md) — see [`android/README.md`](android/README.md) for the prebuilt APK and setup steps.
+
 ## 1. Project Overview
 
 In this project, we use an ESP8266 (NodeMCU) to control a two-motor
